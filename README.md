@@ -8,3 +8,5 @@ Fun facts about me:
 - 🇳🇱 I'm dutch and I work as a frontend developer in the public sector.
 - 💻 Developing since 2012
 - ❤️ Open source
+
+### The best way to contact me is on discord, you can find me by my handle: @j3
