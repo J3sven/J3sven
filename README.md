@@ -9,4 +9,4 @@ Fun facts about me:
 - 💻 Developing since 2012
 - ❤️ Open source
 
-### The best way to contact me is on discord, you can find me by my handle: @j3
+### The best way to contact me is on [discord](https://discord.gg/GAk7y7XYER), you can find me by my handle: @j3
