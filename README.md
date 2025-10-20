@@ -9,10 +9,9 @@ I love working on **open-source** projects, crafting clean and efficient solutio
 ---
 
 ## 🔧 Tech & Interests  
-💻 **Primary Focus**: Web Development (Frontend & Backend)  
-🎥 **Specialized In**: Video & Audio Web Players  
-🚀 **Exploring**: Systems Programming, DevOps, Embedded Systems  
-❤️ **Passionate About**: Open-source, Clean Code, Performance Optimization  
+**Specialized In**: Media Players on the web and games systems  
+**Exploring**: Systems Programming, DevOps, Embedded Systems  
+**Passionate About**: Open-source, Clean Code, Performance Optimization and games preservation
 
 ---
 
@@ -23,7 +22,7 @@ The best way to reach me is via **Discord**:
 
 ---
 
-## 💻 Organizations I work for
+## 💻 Organizations I contribute to
 
 [<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/b6488374-1d6a-44f6-8466-ed6fec345cc5" />
 ](https://npo.nl/)
