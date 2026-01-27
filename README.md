@@ -1,6 +1,6 @@
 # J3 — Sven  
 
-Hey there! 👋 I'm Sven, but online I go by J3. I'm a passionate web developer from The Netherlands, coding since 2012 and always eager to explore new technologies.  
+Hey there! 👋 I'm Sven, but online I go by J3. I'm a passionate software developer from The Netherlands, coding since 2012 and always eager to explore new technologies.  
 
 Since 2023, I've been developing web players for video and audio at NPO, focusing on building high-performance, accessible, and scalable media experiences.  
 
