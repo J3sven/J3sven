@@ -28,7 +28,7 @@ The best way to reach me is via **Discord**:
 ](https://npo.nl/)
 
 
-NPO is my full-time employer. At NPO I am a web developer and part of the player team where we develop media players. My focus is on the video and audio players for the various NPO platforms including [NPO Start](https://npo.nl/start) and [NPO Luister](https://npo.nl/luister) as well as the websites for the NPO Radio channels and independent broadcasters under the NPO Umbrella.
+NPO is my full-time employer. At NPO I am part of the player team where we develop media players. My focus is on the video and audio players for the various NPO platforms on the web including [NPO Start](https://npo.nl/start) and [NPO Luister](https://npo.nl/luister) as well as the websites for the NPO Radio channels and independent broadcasters under the NPO Umbrella.
 
 [<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/99030fcc-8ec0-4495-90e4-646e9a80d2be" />
 ](https://hdos.dev/)
