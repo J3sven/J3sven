@@ -4,14 +4,7 @@ Hey there! 👋 I'm Sven, but online I go by J3. I'm a passionate software devel
 
 Since 2023, I've been developing web players for video and audio at NPO, focusing on building high-performance, accessible, and scalable media experiences.  
 
-I love working on open-source projects, crafting clean and efficient solutions, and experimenting with emerging tech.  
-
----
-
-## 🔧 Tech & Interests  
-**Specialized In**: Media Players on the web and games systems  
-**Exploring**: Systems Programming, DevOps, Embedded Systems  
-**Passionate About**: Open-source, Clean Code, Performance Optimization and games preservation
+In my spare time I love working on mods for games I enjoy playing. I am heavily involved in the RuneScape client & plugin development scene contributing to HDOS as well as building plugins for the official RuneScape Plugin API.
 
 ---
 
